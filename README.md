@@ -1,6 +1,6 @@
 # Developing a Simple Webserver
-Name: Karthi Govindharaju
-ID: ISAI005
+Name: Suchitra Nath
+dept : IT
 
 # AIM:
 
